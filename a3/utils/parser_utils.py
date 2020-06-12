@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-CS224N 2018-19: Homework 3
-parser_utils.py: Utilities for training the dependency parser.
-Sahil Chopra <schopra8@stanford.edu>
-"""
 
 import time
 import os
